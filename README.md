@@ -1,2 +1,2 @@
 # Tie-The-Knot
-Database project on Event Management System
+Oracle database project on Event Management System
